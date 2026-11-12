@@ -1,0 +1,6 @@
+{
+  "name": "異世界設計修羅場：低空飛過！",
+  "description": "2D 橫向卷軸動作遊戲：動畫與遊戲設計科學生闖蕩學科異世界，討伐考卷、Bug 與死線魔神，守護 60 分及格底線！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
